@@ -3,7 +3,7 @@ import Main from "./components/Main";
 
 const App = () => {
   return (
-    <div className="w-screen min-h-screen bg-gray-400 flex justify-center items-center overflow-hidden py-10">
+    <div className="min-h-screen bg-gray-400 flex justify-center items-center overflow-hidden py-10">
       <Main />
     </div>
   );

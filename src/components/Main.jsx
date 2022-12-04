@@ -57,7 +57,7 @@ const Main = () => {
 
   return (
     <div
-      className="md:w-[1200px] sm:w-[650px] w-[500px] min-h-[550px] relative shadow-2xl flex 
+      className="md:w-[1100px] sm:w-[650px] w-[500px] min-h-[550px] relative shadow-2xl flex 
     sm:mx-10 mx-2"
     >
       <div
